@@ -1,0 +1,12 @@
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csprojResolveAssemblyReference.cache
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/burnoisette/ASP_workspace/test-2/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb

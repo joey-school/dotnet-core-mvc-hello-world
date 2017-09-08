@@ -1,0 +1,14 @@
+﻿@model List<MvcMovie.Models.Movie>
+
+@{
+    ViewData["Title"] = "Movie List";
+}
+
+<h2>My Movie Listttoo666666</h2>
+
+@foreach(Movie movie in Model) {
+<div>@movie.Title</div>
+}
+
+
+<p>Hello from our View Template!</p>
